@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Jhowloads
 
-You can use the [editor on GitHub](https://github.com/jhowloads/site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+  
+<table>
+<tr>
+<th> Português </th>
+<th> English </th>
+</tr>
+<tr>
+<td>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Eai negada!
+  
+Sou um programador aspirante a desenvolvedor de jogos.
+  
+[Clique aqui para acessar o meu cana no youtube](https://www.youtube.com/channel/UCm2wqkS0bCR-ql0YxRqnWpw)
 
-### Markdown
+</td>
+  
+<td>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Hey!
 
-```markdown
-Syntax highlighted code block
+I'm software developer trying to become an indie Game Developer.
+  
+[This is my youtube channel](https://www.youtube.com/channel/UCm2wqkS0bCR-ql0YxRqnWpw)
+Follow me if you want more info =]
 
-# Header 1
-## Header 2
-### Header 3
+</td>
+</tr>
+</table>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Data Deletion
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jhowloads/site/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you want to remove all your data, please send an e-mail to jhowloads@gmail.com with your e-mail on it and the title "Remove all my data"
